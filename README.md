@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&lines=Fullstack+Development+%2C+Database+Design+%2C+API+Design;System+Design+%2C+Authentication+%2C+CI%2FCD+Workflows;Docker+%2C+PostgreSQL+%2C+MongoDB" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Nirali" alt="Waving Hello" />
+</p>
+
+<!-- 🐍 Contribution Snake Animation -->
+![Snake animation](https://github.com/thatgeekyboii/thatgeekyboii/blob/output/github-contribution-grid-snake.svg)
 
 # 💫 About Me:
 <table>
@@ -22,10 +28,10 @@
 </tr>
 </table>
 
-![Snake animation](https://github.com/thatgeekyboii/thatgeekyboii/blob/output/github-contribution-grid-snake.svg)
-
-
 # 🧰 My Toolbox:
+<p align="center">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="200" alt="Dev toolbox gif" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1800&color=58A6FF&center=true&vCenter=true&width=800&lines=Languages+%7C+Frameworks+%7C+Libraries+%7C+Databases+%7C+Tools;C%2B%2B+%7C+HTML+%7C+CSS+%7C+JS+%7C+TypeScript;React+%7C+Vue+%7C+Node+%7C+Redux+%7C+Next;MongoDB+%7C+PostgreSQL+%7C+MySQL;Docker+%7C+AWS+%7C+JWT+%7C+Tailwind+%7C+MUI" alt="Toolbox Animation" />
 </p>
@@ -76,8 +82,10 @@
 # 📫 How to reach me:
 <p align="center">
   <a href="mailto:vaibhav0710.patil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">thatgeekyboii</p>
+<p align="center">Made with ❤️ by Nirali Rajpura</p>
