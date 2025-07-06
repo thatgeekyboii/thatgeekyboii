@@ -84,6 +84,7 @@
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vaibhavpatil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+
 # 🎨 Aesthetic Zone:
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Vintage Terminal Dev" />
@@ -92,10 +93,10 @@
 </p>
 
 <p align="center">
-  <a href="#light-mode">
+  <a href="#light-mode" title="Bright, clean, and fresh vibes ☀️">
     <img src="https://img.shields.io/badge/Light%20Mode-☀️-yellow?style=for-the-badge" />
   </a>
-  <a href="#dark-mode">
+  <a href="#dark-mode" title="Focus mode activated 🌙">
     <img src="https://img.shields.io/badge/Dark%20Mode-🌙-blueviolet?style=for-the-badge" />
   </a>
 </p>
