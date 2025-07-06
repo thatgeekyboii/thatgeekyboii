@@ -79,7 +79,7 @@
 - 📚 Always learning something new in tech—be it MLOps or distributed systems.
   
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqzPxyyL1fBYxVm/giphy.gif" width="300" alt="Fun Dev GIF" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Minimal Retro Coding GIF" />
 </p>
 
 # 📫 How to reach me:
