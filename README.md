@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Databases+%7C+Schema+Design+%7C+API+Design+%7C+CI%2FCD+%7C+Authentication+%7C+Docker+%7C+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Development+%7C+Database+Design+%7C+API+Design+%7C+System+Design+%7C+Authentication+%7C+Docker+%7C+CI%2FCD+Workflows" alt="Typing SVG" />
 </p>
-
 
 # 💫 About Me:
 
