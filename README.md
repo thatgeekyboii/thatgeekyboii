@@ -81,7 +81,7 @@
 # 📫 How to reach me:
 <p align="center">
   <a href="mailto:vaibhav0710.patil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vaibhavpatil-/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vaibhavpatil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 # 🎨 Aesthetic Zone:
@@ -92,4 +92,4 @@
 </p>
 ---
 
-<p align="center">Made with ❤️ by Nirali Rajpura</p>
+<p align="center">@ thatgeekyboiia</p>
