@@ -12,6 +12,8 @@
 - 💬 Ask me about REST APIs, TypeScript, Docker, or authentication flows.
 - ⚡ Fun fact: I love simplifying complex systems into clean UI/UX.
 
+![Snake animation](https://github.com/thatgeekyboii/thatgeekyboii/blob/output/github-contribution-grid-snake.svg)
+
 
 # 🧰 My Toolbox:
 <p align="center">
