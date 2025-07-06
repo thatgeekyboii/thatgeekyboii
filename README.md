@@ -90,6 +90,15 @@
   <br />
   <em>"Switching between logic and layout—dark mode thinker, light mode dreamer."</em>
 </p>
----
+
+<p align="center">
+  <a href="#light-mode">
+    <img src="https://img.shields.io/badge/Light%20Mode-☀️-yellow?style=for-the-badge" />
+  </a>
+  <a href="#dark-mode">
+    <img src="https://img.shields.io/badge/Dark%20Mode-🌙-blueviolet?style=for-the-badge" />
+  </a>
+</p>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">@thatgeekyboii</p>
