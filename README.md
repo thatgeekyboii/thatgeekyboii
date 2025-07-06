@@ -55,9 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thatgeekyboii&theme=radical&hide_border=false" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatgeekyboii&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
-</p>
 
 
 # 💬 Ask me about:
