@@ -27,6 +27,9 @@
 
 # 🧰 My Toolbox:
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1800&color=58A6FF&center=true&vCenter=true&width=800&lines=Languages+%7C+Frameworks+%7C+Libraries+%7C+Databases+%7C+Tools;C%2B%2B+%7C+HTML+%7C+CSS+%7C+JS+%7C+TypeScript;React+%7C+Vue+%7C+Node+%7C+Redux+%7C+Next;MongoDB+%7C+PostgreSQL+%7C+MySQL;Docker+%7C+AWS+%7C+JWT+%7C+Tailwind+%7C+MUI" alt="Toolbox Animation" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -47,7 +50,6 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-
 
 
 # 📊 GitHub Stats:
