@@ -94,10 +94,10 @@
 
 <p align="center">
   <a href="#light-mode" title="Bright, clean, and fresh vibes ☀️">
-    <img src="https://img.shields.io/badge/Light%20Mode-☀️-yellow?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Light%20Mode-☀️-yellow?style=for-the-badge&logo=macos&logoColor=white" />
   </a>
   <a href="#dark-mode" title="Focus mode activated 🌙">
-    <img src="https://img.shields.io/badge/Dark%20Mode-🌙-blueviolet?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Dark%20Mode-🌙-blueviolet?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
 </p>
 ------------------------------------------------------------------------------------------------------------------
