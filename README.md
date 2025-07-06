@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&lines=Fullstack+Development+%2C+Database+Design+%2C+API+Design;System+Design+%2C+Authentication+%2C+CI%2FCD+Workflows;Docker+%2C+PostgreSQL+%2C+MongoDB" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Hi there 👋, I'm <span style="color:#58A6FF">VP</span></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Nirali" alt="Waving Hello" />
+</p>
 
 # 💫 About Me:
 <table>
