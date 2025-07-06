@@ -2,8 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&lines=Fullstack+Development+%2C+Database+Design+%2C+API+Design;System+Design+%2C+Authentication+%2C+CI%2FCD+Workflows;Docker+%2C+PostgreSQL+%2C+MongoDB" alt="Typing SVG" />
 </p>
 
-
 # 💫 About Me:
+<table>
+<tr>
+<td>
 
 - 👩‍💻 Full Stack Engineer skilled in Vue.js, React.js, Node.js, and TypeScript.
 - 🔍 Exploring ML projects using MongoDB and PostgreSQL.
@@ -11,6 +13,13 @@
 - 🌱 Learning MLOps and scalable system design.
 - 💬 Ask me about REST APIs, TypeScript, Docker, or authentication flows.
 - ⚡ Fun fact: I love simplifying complex systems into clean UI/UX.
+
+</td>
+<td>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
+</td>
+</tr>
+</table>
 
 ![Snake animation](https://github.com/thatgeekyboii/thatgeekyboii/blob/output/github-contribution-grid-snake.svg)
 
