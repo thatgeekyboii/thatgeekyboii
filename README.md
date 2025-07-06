@@ -85,6 +85,12 @@
   <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+# 🎨 Aesthetic Zone:
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Vintage Terminal Dev" />
+  <br />
+  <em>"Switching between logic and layout—dark mode thinker, light mode dreamer."</em>
+</p>
 ---
 
 <p align="center">Made with ❤️ by Nirali Rajpura</p>
